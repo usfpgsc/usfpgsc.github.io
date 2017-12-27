@@ -1,5 +1,5 @@
 ---
-title: "Critical dynamics in population vaccinating behavior"
+title: "The kinetics of regeneration of rhodopsin under enzyme-limited availability of 11-cis retinoid"
 collection: publications
 permalink: /publication/Lamb_Corless_Pananos_2015
 excerpt: ''
