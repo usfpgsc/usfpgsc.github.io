@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D Biostatistics, Western University
-* M.MATH Applied Mathematics, University of Waterloo, 2016
-* B.Sc Applied Mathematics, Western University, 2014 
+* __Ph.D__ Biostatistics, Western University
+* __M.MATH__ Applied Mathematics, University of Waterloo, 2016
+* __B.Sc__ Applied Mathematics, Western University, 2014 
 
-Work experience
+Techincal Skills
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Statistical Testing
+* Applied Mathematics
 
 Publications
 ======
@@ -54,6 +39,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
