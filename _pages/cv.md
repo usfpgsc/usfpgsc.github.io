@@ -17,9 +17,11 @@ Education
 
 Techincal Skills
 ======
-* Machine Learning
-* Statistical Testing
-* Applied Mathematics
+* Python (Frequently used libraries: sklearn, numpy, scipy, pandas)
+* R (Frequently used libraires: caret, glmnet, tidyr, dplyr)
+* SQL (Postgres and SQLite)
+* MATLAB
+* Some SAS
 
 Publications
 ======
