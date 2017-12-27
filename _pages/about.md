@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About Demetri
 
-I am a Biostatistics Doctoral Student in The Shulich School of Medicine and Dentistry at The University of Western Ontario.  
+I am a Biostatistics Doctoral Student in The Shulich School of Medicine & Dentistry at The University of Western Ontario.  
 
 My research interests continue to evolve, but one motif that has persisted is the application of mathematics to medical science.  As of late, I have become increasingly interested in computational statistics, Bayesian Methods, and what has begun to be described as Data Science.
 
