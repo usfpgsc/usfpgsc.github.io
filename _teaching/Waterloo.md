@@ -17,4 +17,4 @@ I performed teaching assistant duties for various courses in the applied mathema
 * Mathematics 136 (Honors Calculus for Math Students I) Fall 2014
 * Applied Mathematics 250 (Introduction to Differential Equations) Spring 2015, Winter 2015
 
-<sup>1</sup>: Nominated for Teaching Assistant Award by students.
+<sup>1</sup> Nominated for Teaching Assistant Award by students.
