@@ -42,3 +42,4 @@ Teaching
   {% endfor %}</ul>
   
 
+[PDF Version](http://dpananos.github.io/files/DEMETRI_CV.pdf)
