@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Applied Mathematics"
-date: 
+date:  2014-09-01
 location: "Waterloo Ontario"
 ---
 
