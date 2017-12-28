@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 
-## Applied Mathematician. Statistician. Scientist
-I am a Biostatistics Doctoral Student in The Shulich School of Medicine & Dentistry at The University of Western Ontario.  
+## Applied Mathematician. Statistician. Data Scientist
 
-My research interests surround the application of mathematics to medical science. Lately, I have become increasingly interested in computational statistics, Bayesian methods, and what has begun to be described as data science.
+I'm a Ph.D Candidate in Biostatistics at Western University.  I completed my Master's in Applied Mathematics at The University of Waterloo. 
 
-In the past, I have worked on topics in mathematical biology.  I am still interested in these topics, but I am not actively participating in any research.
+My research involves Bayesian methods and machine learning for optimally dosing patients with drugs.  
+
+I'm a big fan of open source software and reproducible science.
 
 I play a lot of chess.

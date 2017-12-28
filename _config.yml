@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Demetri Pananos"
+title                    : "Ph.Demetri"
 title_separator          : "-"
 name                     : &name "Demetri Pananos"
 description              : &description "Applied Mathematician.  Statistician.  Data Scientist."
