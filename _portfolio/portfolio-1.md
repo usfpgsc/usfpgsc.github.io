@@ -1,6 +1,6 @@
 ---
 title: "Churn in a Retail Setting"
-excerpt: "A non-parametric estimation of when customers may have churned from retail businesses. 
+excerpt: "A non-parametric estimation of when customers may have churned from retail businesses." 
 collection: portfolio
 ---
 
