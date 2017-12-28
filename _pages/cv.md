@@ -17,21 +17,21 @@ Education
 
 Techincal Skills
 ======
-* Python (Frequently used libraries: sklearn, numpy, scipy, pandas)
-* R (Frequently used libraires: caret, glmnet, tidyr, dplyr)
+* Python 
+* R
 * SQL (Postgres and SQLite)
 * MATLAB
 * Some SAS
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
