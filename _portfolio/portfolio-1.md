@@ -31,9 +31,9 @@ What I really need to know is who bought a product and when.  To do this, I can 
  
 Let's visualize the distributions for each customer (shown below).  Some distributions look as if they are exponential (which would be really nice because then we could model purchase incidence as a Poisson random variable).  Others are more irregular.  Modelling all these distributions as coming from one separately parameterized distribution would be very difficult.  Our non-parametric method is way easier, as we will see.
 
-![](images/portfolio/churn/unnamed-chunk-3-1.png)
+![](/images/portfolio/churn/unnamed-chunk-3-1.png)
 
-![](../images/profile_old.png)
+![](/images/profile_old.png)
 
 # Computation of the ECDF
  
@@ -42,7 +42,7 @@ I've written a little function to compute the ECDF for each customer.  Then, I c
 Better yet, we can compute the approximate 90th percentile and display it in a dataframe.
 
 
-![](images/portfolio/churn/unnamed-chunk-4-1.png)
+![](/images/portfolio/churn/unnamed-chunk-4-1.png)
 
 
 ```
