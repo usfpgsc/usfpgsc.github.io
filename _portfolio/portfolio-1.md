@@ -4,6 +4,9 @@ excerpt: "Churn is not the same in retail as it is in subscription services.  Ho
 collection: portfolio
 ---
 
+Interested in recreating the results?  Check out the [R Notebook](https://github.com/Dpananos/Retail-Churn/blob/master/Retail%20Churn.Rmd) on my github!
+
+
 # Introduction
 
 Retail churn is different than most other forms of churn since every transaction could be that customer's last, or one of a long sequence of transactions.  Normally, churn is a classification problem, but I don't think that classification is appropriate for non-contractual cases. By means of example, suppose you run a retail hardware store.  A competitor opens closer to your most loyal customers and thus offers them the benefit of saving time.  Your most loyal customers may churn without showing any signs.  A typical classification algorithm would missclassify these customers, and cost your business in the long run.
@@ -68,3 +71,5 @@ That's it!  We now know the point when each customer will begin to act "anomalou
 Churn is very different for retailers, which means taking a different approach to modelling churn.  When a customer has churned, their time between transactions is anomalously large, so we should have an idea of what "anomalously" means for each customer.  Using the ECDF, we have estimated the 90th percentile of each customers between transaction time distribution in a non-parametric way. Now, we can examine the last time a customer has transacted, and if the time between then and now is near the 90th percentile (or any percentile you deem appropriate) then we can call them "at risk for churn" and take appropriate action to prevent them from churning.  Best of all, with more data our approach will become better and better since the ECDF converges in distribution to the CDF.
 
 In this approach, I've not accounted for seasonality in transactions.  In implementation, the window in which we compute the ECDF would have to be appropriately short.  Parametric methods exist for modelling between transaction times, which would give better insight into the phenomena as a whole.  These methods are currently under investigation by the author.
+
+
