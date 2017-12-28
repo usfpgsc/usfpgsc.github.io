@@ -33,7 +33,6 @@ Let's visualize the distributions for each customer (shown below).  Some distrib
 
 ![](/images/portfolio/churn/unnamed-chunk-3-1.png)
 
-![](/images/profile_old.png)
 
 # Computation of the ECDF
  
