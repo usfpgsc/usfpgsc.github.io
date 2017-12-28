@@ -1,6 +1,6 @@
 ---
-title: ''Measuring Retail Churn''
-excerpt: ''Churn is not the same in retail as it is in subscription services.  How can we then estimate when a customer is likely to churn?''
+title: "Measuring Retail Churn"
+excerpt: "Churn is not the same in retail as it is in subscription services.  How can we then estimate when a customer is likely to churn?"
 collection: portfolio
 ---
 
