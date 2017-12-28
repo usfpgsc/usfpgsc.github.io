@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Demetri Pananos"
+title: "Applied Mathematician & Data Scientist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I'm a Ph.D Candidate in Biostatistics at Western University with a Master's in Applied Mathematics from The University of Waterloo.
 
-## Applied Mathematician. Statistician. Data Scientist
+My research involves Bayesian methods and machine learning for optimally dosing patients with drugs.  I use a lot of stats and write a lot of code.
 
-I'm a Ph.D Candidate in Biostatistics at Western University.  I completed my Master's in Applied Mathematics at The University of Waterloo. 
+I'm a big fan of open source software and reproducible science.  Python and R are like my right and left hands, respectively.
 
-My research involves Bayesian methods and machine learning for optimally dosing patients with drugs.  
-
-I'm a big fan of open source software and reproducible science.
-
-I play a lot of chess.
+I play a lot of chess.  
