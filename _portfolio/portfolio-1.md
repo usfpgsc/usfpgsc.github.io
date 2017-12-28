@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1"
+title: "Retail Churn"
+excerpt: "Churn is not the same in retail as it is in subscription services.  How can we then estimate when a customer is likely to churn?"
 collection: portfolio
 ---
 
@@ -32,6 +32,8 @@ What I really need to know is who bought a product and when.  To do this, I can 
 Let's visualize the distributions for each customer (shown below).  Some distributions look as if they are exponential (which would be really nice because then we could model purchase incidence as a Poisson random variable).  Others are more irregular.  Modelling all these distributions as coming from one separately parameterized distribution would be very difficult.  Our non-parametric method is way easier, as we will see.
 
 ![](images/portfolio/churn/unnamed-chunk-3-1.png)
+
+![](../images/profile_old.png)
 
 # Computation of the ECDF
  
