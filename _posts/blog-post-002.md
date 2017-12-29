@@ -3,6 +3,7 @@ title: 'Coins and Factors'
 date: 2017-12-29
 permalink: /posts/2017/12/blog-post-001/
 tags:
+	- Riddler
 ---
 
 I love Fivethirtyeight's Riddler column.  Every Friday morning, I wake up, have myself a coffee, and try to solve the latest puzzle.
@@ -46,3 +47,15 @@ When we take a look at the `coins` variable, we see that those coins in position
 ![][/images/blog/coins.png)
 
 #Reasoning Out the Solution.
+
+First, let's think why a coin would end up face down at the end of the riddle.  If all coins start heads up, then it would take an odd number of flips for the coin to end up face down.  Since coins are only flipped when we pass a factor of a coin's position, then those coins in positions with an odd number of factors will be heads down at the end.
+
+Here is a concrete example.  Consider the number 9.  It has an odd number of factors (namely 1,3, and 9).
+
+When we pass 1, we flip the ninth coin heads down.
+
+When we pass 3, we flip the ninth coin heads up.
+
+When we pass 9, we flip the ninth coin heads down, and then there are no more factors of 9 ahead of us, so the ninth coin remains heads down.
+
+So then we have to ask ourselves: which numbers have an odd number of factors?
