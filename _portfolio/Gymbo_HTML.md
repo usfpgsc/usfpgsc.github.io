@@ -195,7 +195,7 @@ September seems to be the busiest month for the gym.  One possible explanation i
 temporal peak use regresses in October (likely due to exams) and then shifts to later in the evening in November.  Weekends see no drastic shifts in temporal peak use.
 
 
-<img src="/images/portfolio/Gymbo/unnamed-chunk-6-1.png"  />
+<img src="/images/portfolio/Gymbo/unnamed-chunk-5-1.png"  />
 
 
 ## Modelling Considerations
@@ -206,7 +206,7 @@ The WR variable is highly autocorrelated and heteroskedastic.  The heteroskedast
 
 Lastly, if time series are not to be used, a typical train/test split is not the best approach for obtaining cross validated predictive accuracy since the observations are not independant.  Instead, a "walk forward" validation may be more appropriate.  Such methods are implemented in most machine learning libraries, such as R's `caret`.
 
-<img src="/images/portfolio/Gymbo/unnamed-chunk-7-1.png" />
+<img src="/images/portfolio/Gymbo/unnamed-chunk-6-1.png" />
 
 ## A Modest Attempt at Modelling
 
@@ -219,7 +219,7 @@ The final model only accounts for day of the week and time of day.  Shown below 
 
 
 
-<img src="/images/portfolio/Gymbo/unnamed-chunk-9-1.png" />
+<img src="/images/portfolio/Gymbo/unnamed-chunk-8-1.png" />
 
 
 
@@ -232,7 +232,7 @@ The final model only accounts for day of the week and time of day.  Shown below 
 Making future predictions is impressively easy with `caret` and `timetk`.  Simply pass the time features into `timetk`'s function `tk_make_future_series` and the library will return an array with future observation times spaced by the mean difference in the observed times (in our case that is very close to half an hour, but just slightly larger.  We can round the times to the nearest half hour using lubridate).  Passing those times into the `tk_augment_timeseires_signature` function will return appropriate time features we used for modelling, and then a small mutate to include our unique features finishes the job.
 
 Shown below is a plot of predictions for the next three days.
-<img src="/images/portfolio/Gymbo//unnamed-chunk-10-1.png" />
+<img src="/images/portfolio/Gymbo//unnamed-chunk-9-1.png" />
 
 ## Conclusions, Discussion, and Next Steps
 
