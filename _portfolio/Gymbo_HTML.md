@@ -23,7 +23,7 @@ Generating a predictive model is a tall order, and so in this project we take on
 
 The Western Rec Centre operates a twitter account which periodically tweets out how many students are in the weight room and cardio mezzanine.  Recent tweets are easily accessed through the `twitteR` library.  A set of keys is required to access the API.  Once keys are obtained, the last 3200 tweets from any given account are available to users.  The API returns various metadata about the tweets made.  Of particular interest are the tweet text, the date created, and the unique id assigned to the tweet (this will become valuable for storing tweets in a sqlite database for posterity). 
 
-The tweets are in english and though while consistent, may not always be in a dependable format. Using the library `stringr`, a heuristic is followed to determine the number of students in the weight room.  The twitter account usually uses 'WR' to indicate 'Weight Room', so the script will parse the tweets for the occurance of 'WR' in the tweet.  If 'WR' is in the tweet (accounting for capitalization, puncuation, etc), then the script will extract the largest integer present in the tweet and use this as the number of students in the weight room (the weight room ususally has more patrons than the cardio mezzanine.  This is the heuristic).  If neither an integer nor 'WR' appear in the script, -1 is returned.  This data is written to a sqlite database with the unique identifier used as the primary key.  The table shown below is a sample of what the database contains.
+The tweets are in english and though while consistent, may not always be in a dependable format. Using the library `stringr`, a heuristic is followed to determine the number of students in the weight room.  The twitter account usually uses 'WR' to indicate 'Weight Room', so the script will parse the tweets for the occurrence of 'WR' in the tweet.  If 'WR' is in the tweet (accounting for capitalization, puncuation, etc), then the script will extract the largest integer present in the tweet and use this as the number of students in the weight room (the weight room usually has more patrons than the cardio mezzanine.  This is the heuristic).  If neither an integer nor 'WR' appear in the script, -1 is returned.  This data is written to a sqlite database with the unique identifier used as the primary key.  The table shown below is a sample of what the database contains.
 
 
 
@@ -79,7 +79,7 @@ The tweets are in english and though while consistent, may not always be in a de
 
 ## Extracting Important Time Features
 
-We are primarily interested in day to day changes in the number of students.  However, there may exist dynamics on the time scale of weeks, or months, that we would miss by only considering day to day or hour to hour trends.  For this reason, we leverage the use of `timetk` to extract other time information.  Doing so produces a dataframe with many columns, several of which are redundant.  Here, we choose just a few which we believe to be of particular importance to the problem.  In particular, we extract: weekday, day of year, month, week of month, week of year.  We also create feautures for time, date, if the day is a weekend, if the day has any particular significance (e.g. Homecoming or Holidays), and the number of days until the significant days end (for instance, the Saturday of Thanksgiving has a value of 3 since there are 3 days until school starts again).
+We are primarily interested in day to day changes in the number of students.  However, there may exist dynamics on the time scale of weeks, or months, that we would miss by only considering day to day or hour to hour trends.  For this reason, we leverage the use of `timetk` to extract other time information.  Doing so produces a dataframe with many columns, several of which are redundant.  Here, we choose just a few which we believe to be of particular importance to the problem.  In particular, we extract: weekday, day of year, month, week of month, week of year.  We also create features for time, date, if the day is a weekend, if the day has any particular significance (e.g. Homecoming or Holidays), and the number of days until the significant days end (for instance, the Saturday of Thanksgiving has a value of 3 since there are 3 days until school starts again).
 
 
 
@@ -191,11 +191,11 @@ We are primarily interested in day to day changes in the number of students.  Ho
 
 The time features allow examination of usage trends at several granularities.  Examining the trends on a monthly level shows a clear change in students's behaviour as the semester progresses.  In September, the peak gym usage occurs somewhere between 5 PM and 7PM.  As the months progress, peak usage occurs later, somewhere around 8 PM.  
 
-September seems to be the busiest month for the gym.  One possible explanation is that in this month, patrons are free of assignments and other responsibilities and may be free to go to the gym.  As the semester progresses, responsibilitie pile, and they may be less inclined to go.  October sees the coming and passing of midterms as well as the fall reading break. This makes October the month with the least usage.  Granularity can be further increased to the level of weekday.  Monday sees the largest temporal shift in peak use from the evening to late night, where as the middle weekdays see no shift in temporal peek use.  Friday's 
+September seems to be the busiest month for the gym.  One possible explanation is that in this month, patrons are free of assignments and other responsibilities and may be free to go to the gym.  As the semester progresses, responsibilities pile, and they may be less inclined to go.  October sees the coming and passing of midterms as well as the fall reading break. This makes October the month with the least usage.  Granularity can be further increased to the level of weekday.  Monday sees the largest temporal shift in peak use from the evening to late night, where as the middle weekdays see no shift in temporal peek use.  Friday's 
 temporal peak use regresses in October (likely due to exams) and then shifts to later in the evening in November.  Weekends see no drastic shifts in temporal peak use.
 
 
-<img src="/images/portfolio/Gymbo/unnamed-chunk-6-1.png" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" width="75%" style="display: block; margin: auto;" />
+<img src="/images/portfolio/Gymbo/unnamed-chunk-6-1.png"  />
 
 
 ## Modelling Considerations
@@ -229,7 +229,7 @@ The final model only accounts for day of the week and time of day.  Shown below 
 
 ## Making Predictions
 
-Making future predictions is impressively easy with `caret` and `timetk`.  Simply pass the time features into `timetk`'s function `tk_make_future_series` and the library will return an array with future observation times spaced by the mean difference in the observed times (in our case that is very close to half an hour, but just slightly larger.  We can round the times to the nearest half hour using lubridate).  Passing those times into the `tk_augment_timeseires_signature` function will return appropriate time feautures we used for modelling, and then a small mutate to include our unique features finishes the job.
+Making future predictions is impressively easy with `caret` and `timetk`.  Simply pass the time features into `timetk`'s function `tk_make_future_series` and the library will return an array with future observation times spaced by the mean difference in the observed times (in our case that is very close to half an hour, but just slightly larger.  We can round the times to the nearest half hour using lubridate).  Passing those times into the `tk_augment_timeseires_signature` function will return appropriate time features we used for modelling, and then a small mutate to include our unique features finishes the job.
 
 Shown below is a plot of predictions for the next three days.
 <img src="/images/portfolio/Gymbo//unnamed-chunk-10-1.png" />
@@ -240,6 +240,6 @@ The model is far from ideal. The residuals from the regression exhibit correlati
 
 
 
-None the less, the model serves as an indicator of what gym usage possible could be, and is certainly better than instantaneously guessing what gym usage will be like in the coming hours.  The model has been implemented as a twitter accont and tweets out predictions each day approximately every hour.  Since the tweets are made automatically, this qualifies the account as a "bot".  This bot is named **GyMbo** (a homonym of the male name Jimbo and portmanteau of Gym Monitoring Robot) and is implemented in python.  Readers can follow the bot at @WesternGymBot.
+None the less, the model serves as an indicator of what gym usage possible could be, and is certainly better than instantaneously guessing what gym usage will be like in the coming hours.  The model has been implemented as a twitter account and tweets out predictions each day approximately every hour.  Since the tweets are made automatically, this qualifies the account as a "bot".  This bot is named **GyMbo** (a homonym of the male name Jimbo and portmanteau of Gym Monitoring Robot) and is implemented in python.  Readers can follow the bot at @WesternGymBot.
 
 
