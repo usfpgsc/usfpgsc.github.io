@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D Candidate in Biostatistics at Western University with a Master's in Applied Mathematics from The University of Waterloo.
+Demetri is a Ph.D Candidate in Biostatistics at the Schulich School for Medicine & Dentistry. 
 
-My research involves Bayesian methods and machine learning for optimally dosing patients with drugs.  I use a lot of stats and write a lot of code.
+His research surrounds developing machine learning methods and Bayesian techniques for optimally dosing patients with drugs.
 
-I'm a big fan of open source software and reproducible science.  Python and R are like my right and left hands, respectively.
+Demetri earned his Masters of Mathematics from The University of Waterloo, and has worked as a Data Scientist in retail analytics.
 
-I play a lot of chess.  
+Demetri plays a lot of chess, and will never turn down a game if offered.
