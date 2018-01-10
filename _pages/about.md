@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Demetri is a Ph.D Candidate in Biostatistics at the Schulich School for Medicine & Dentistry. 
+I'm a Ph.D Candidate in Biostatistics at Western University.  I earned my Masters of Mathematics in Applied Math from The University of Waterloo in 2016 under the supervision of Chris Bauch.
 
-His research surrounds developing machine learning methods and Bayesian techniques for optimally dosing patients with drugs.
+My research interests surround machine learning and Bayesian methods for personalized medicine.  
 
-Demetri earned his Masters of Mathematics from The University of Waterloo, and has worked as a Data Scientist in retail analytics.
+I am also affiliated with The Rotman Institute for Philosophy.  While there, I hope to learn more about the philosophy of science as it relates to knowledge generation, especially from a statistical perspective.
 
-Demetri plays a lot of chess, and will never turn down a game if offered.
