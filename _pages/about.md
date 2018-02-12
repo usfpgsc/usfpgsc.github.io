@@ -3,14 +3,13 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a Ph.D student in Biostatistics at Western University.  I earned my Masters of Mathematics in Applied Math from The University of Waterloo in 2016 under the supervision of Chris Bauch.
+I'm a Ph.D student in Biostatistics and a member of the Predictive Health Informatics Lab (PHI Lab) at Western University.  My research interests surround machine learning and Bayesian statistics for personalized medicine.  I also have graduate affiliation with The Rotman Institute of Philosophy.
 
-My research interests surround machine learning and Bayesian methods for personalized medicine.  
+I earned my Masters of Mathematics in Applied Mathematics from The University of Waterloo in 2016 working under the supervision of Professor Chris Bauch.
 
-I am also affiliated with The Rotman Institute for Philosophy.  While there, I hope to learn more about the philosophy of science as it relates to knowledge generation, especially from a statistical perspective.
-
+I am a firm believer in open science, interdisciplinary collaboration, and reproducible research.  If you would like to talk about any of those three things, or about something unrelated, please feel free to contact me.
