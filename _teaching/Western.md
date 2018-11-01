@@ -10,4 +10,4 @@ location: "London Ontario"
 
 I have TA'd the following graduate level courses in Biostatistics
 
-* Biostatistics 9510A: Biostatistical Research Methods
+* Biostatistics 9510A: Biostatistical Research Methods, Fall 2018
