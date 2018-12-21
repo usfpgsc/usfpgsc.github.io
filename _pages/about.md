@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student in Biostatistics at Western University.  My research interests surround machine learning and Bayesian statistics for personalized medicine. 
+I'm a Ph.D candidate in Biostatistics at Western University.  My research interests surround machine learning and Bayesian statistics for personalized medicine.
 
 I earned my Masters of Mathematics in Applied Mathematics from The University of Waterloo.
 
