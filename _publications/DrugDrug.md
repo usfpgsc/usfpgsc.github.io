@@ -3,8 +3,8 @@ title: "Drug interactions and pharmacogenetic factors contribute to variation in
 collection: publications
 permalink: /publication/2019-09-28-drug-interactions
 excerpt: ''
-date: Journal of Thrombosis and Thrombolysis
-venue: 'Proceedings of the National Academy of Sciences'
+date: 2019-09-28
+venue: 'Journal of Thrombosis and Thrombolysis'
 paperurl: 'https://link.springer.com/article/10.1007/s11239-019-01962-2'
 ---
 
