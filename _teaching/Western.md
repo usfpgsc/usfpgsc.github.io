@@ -2,7 +2,7 @@
 title: "Western University"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2019-fall-teaching
+permalink: /teaching/2019-fall-teaching-1
 venue: "Department of Epidemiology & Biostatistics"
 date:  2019-12-01
 location: "London Ontario"
