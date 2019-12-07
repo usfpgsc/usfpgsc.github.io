@@ -20,8 +20,7 @@ Technical Skills
 * Python
 * R
 * SQL (Postgres and SQLite)
-* MATLAB
-* Some SAS
+* Stan
 
 Publications
 ======
