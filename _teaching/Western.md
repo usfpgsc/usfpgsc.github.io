@@ -2,12 +2,18 @@
 title: "Western University"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2018-fall-teaching
+permalink: /teaching/western-teaching
 venue: "Department of Epidemiology & Biostatistics"
-date:  2018-09-01
+date:  2019-12-01
 location: "London Ontario"
 ---
 
 I have TA'd the following graduate level courses in Biostatistics
 
 * Biostatistics 9510A: Biostatistical Research Methods, Fall 2018
+
+* Biostatistics 3110B: Multivariable Methods in Biostatistics, Winter 2019
+
+I have TA'd the following graduate level courses in Computer Science
+
+* Computer Science 9637: Introduction to Data Science
