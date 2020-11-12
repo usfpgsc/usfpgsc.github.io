@@ -16,4 +16,4 @@ I have TA'd the following graduate level courses in Biostatistics
 
 I have TA'd the following graduate level courses in Computer Science
 
-* Computer Science 9637: Introduction to Data Science, Fall 2019
+* Computer Science 9637: Introduction to Data Science, Fall 2019, Winter 2020, Fall 2020
