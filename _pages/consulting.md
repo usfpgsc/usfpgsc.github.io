@@ -7,7 +7,7 @@ author_profile: true
 
 ## Who Am I?
 
-I'm presently completing a Ph.D in Biostatistics at Western University.  Throughout my PhD, I've had the good fortune to work as a statistical analyst for The Department of Medicine at Western.  In that role I provided statistical servicxes to researching physicians, including: but not limited to:
+I'm presently completing a Ph.D in Biostatistics at Western University.  Throughout my PhD, I've had the good fortune to work as a statistical analyst for The Department of Medicine at Western.  In that role I provided statistical services to researching physicians, including: but not limited to:
 
 * Providing statistical expertise in grant writing
 * Helping design analysis plans for funded studies
