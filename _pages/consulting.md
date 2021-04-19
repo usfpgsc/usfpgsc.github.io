@@ -15,13 +15,13 @@ I'm presently completing a Ph.D in Biostatistics at Western University.  Through
 * Statistical modelling
 * Reporting and interpreting results of modelling
 * Communication of results to non-expert audiences (including writing manuscripts for publication), and
-* Responding to reviwer requests.
+* Responding to reviewer requests.
 
 If you need help with statistics of any kind, I'm always open to lend a hand.  Please feel free to reach out.
 
 ## Pricing
 
-Prices will vary depending on the effort required.  I have special pricing for students and trainees (e.g. medical residents).  If you would like a quote on pricing, please send me an email with your name, what your position is (e.g. student, resident, clinician etc.), and what you'd like some help on.  We can take it from there.
+I special hourly pricing for students and trainees.  If you would like a quote on pricing, please send me an email with your name, what your position is (e.g. student, resident, clinician etc.), and what you'd like some help on.  We can take it from there.
 
 ## Contacting Me
 
