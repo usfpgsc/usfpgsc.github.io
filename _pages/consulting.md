@@ -5,9 +5,10 @@ permalink: /consulting/
 author_profile: true
 ---
 
-## Who Am I?
 
-I'm presently completing a Ph.D in Biostatistics at Western University.  Throughout my PhD, I've had the good fortune to work as a statistical analyst for The Department of Medicine at Western.  In that role I provided statistical services to researching physicians, including: but not limited to:
+## Statistical Consulting
+
+I am available for private statistical consulting. Throughout my PhD, I've had the good fortune to work as a statistical analyst for The Department of Medicine at Western University.  In that role I provided statistical services to researching physicians, including: but not limited to:
 
 * Providing statistical expertise in grant writing
 * Helping design analysis plans for funded studies
@@ -17,12 +18,9 @@ I'm presently completing a Ph.D in Biostatistics at Western University.  Through
 * Communication of results to non-expert audiences (including writing manuscripts for publication), and
 * Responding to reviewer requests.
 
-If you need help with statistics of any kind, I'm always open to lend a hand.  Please feel free to reach out.
+If you need help with statistics of any kind, I'm always open to lend a hand.  Please feel free to reach out at dpananos [at] gmail [dot] com.
 
 ## Pricing
 
-I special hourly pricing for students and trainees.  If you would like a quote on pricing, please send me an email with your name, what your position is (e.g. student, resident, clinician etc.), and what you'd like some help on.  We can take it from there.
+I have variable pricing depending on requirements and timeline to complete work.  For classic statistical modelling of data, hourly rates start at $75 per hour.  For clinical prediction modelling, rates start at $150 per hour.  Additional fees are applied if work is to be prioritized (for example, for an upcoming deadline).  I offer a 30 minute consult free of charge to scope out project needs and will send you an estimated cost for the work.
 
-## Contacting Me
-
-I'm open to all requests for service. The easiest way to get a hold of me is through email.  Please include your name, position, and a small description of your study and what you would like assistance with.  If I am available I will kindly ask for written details about your study in the form of a study protocol.  In the case that you need assistance with design, I will kindly ask for more details about the intervention, outcome, variables to adjust for, and any constraints (e.g. budget, time, etc).
