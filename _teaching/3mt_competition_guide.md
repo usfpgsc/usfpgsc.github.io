@@ -3,7 +3,7 @@ title: "3MT Competitors Guide"
 permalink: /teaching/3mt_competition_guide
 collection: teaching
 date: 2022-06-14
-venue: 'ISA 2302 (Physics Colloquim), University of South Florida, Tampa, FL.'
+venue: "ISA 2302 (Physics Colloquim), University of South Florida, Tampa, FL."
 ---
 
 
