@@ -1,0 +1,87 @@
+---
+title: "3MT Competitors Guide"
+excerpt: ""
+collection: portfolio
+---
+
+Even the world’s best public speakers prepare before important presentations. To assist you with your preparations, please find a few suggestions below that will help you in writing your presentation, creating your slide and practising your presentation.
+
+# 3MT Competition
+
+We are very excited to announce the inaugural **Three Minute Thesis (3MT™) competition** in the Department of Physics. The 3MT™ competition is a research communication competition developed by The [University of Queensland, Australia](https://threeminutethesis.uq.edu.au/). The exercise develops academic, presentation, and research communication skills and supports the development of students' capacities to effectively explain their research in language appropriate to an intelligent but non-specialist audience. 
+
+In this competition, graduate students will have **three minutes** to present a compelling oration on their dissertation/current research topic and its significance. 3MT™ is not an exercise in trivializing or ‘dumbing-down’ research but forces students to consolidate their ideas and crystalize their research discoveries. 
+
+
+## Why participate? 
+
+
+- **Skills development for research students**
+  - Participating in 3MT develops academic, presentation and research communication skills, while developing research candidates’ ability to effectively explain their research in language appropriate to a non-specialized audience.
+
+- **Building intra-departmental research culture**
+  - 3MT provides a valuable opportunity for graduate students to come together in person, get to know one another, and talk about their research. It also provides a supportive environment and presentation skills training.
+
+- **Building external relations for the department/program**
+  - 3MT winners may go on to represent the department at university, state, national, and international 3MT competitions which provides an excellent networking and professional development opportunity. Previous 3MT finalists at USF have benefited from invitations to a variety of other networking events following their participation in the competition
+
+- **Preparation for Graduate Research Day event hosted by the PGSC in the fall**
+  - The 3MT competition is a practice event for students to get used to speaking in front of large audiences and a judge panel about their research in preparation for the Gradute Research Day event hosted by PGSC and the physics department in the fall.
+
+- **It looks good on your Resume/CV 😊**.
+
+
+## Competition Elgibility
+
+Currently enrolled graduate students (masters or PhD track) in the Applied Physics program at the University of South Florida will be eligible to participate in the 3MT™. 
+
+
+## Applications 
+
+Applications for the 3MT™ competition can be submitted [here](insert link).
+
+- **Registration Opens**: Wednesday, June 15th, 2022.
+- **Registration Closes**: Wednesday, July 10th, 2022.
+
+
+## Prizes 
+
+
+3MT™ Finalists are eligible for one of the three awards: 
+- **Winner** —— $250.
+- **Runner-up** —— $150.
+- **People’s Choice** (selected by the audience) —— ($100). 
+
+
+## Competition Rules
+
+- A single static PowerPoint slide is permitted (no slide transitions, animations, or 'movement' of any description).
+- No additional electronic media (e.g., sound and video files) are permitted.
+- No additional props (e.g., costumes, musical instruments, laboratory equipment) are permitted.
+- Presentations are limited to 3 minutes maximum, and competitors exceeding 3 minutes are disqualified.
+- Presentations are to be spoken word (e.g., no poems, raps, or songs).
+- The decision of the adjudicating panel is final.
+- Please see more in the [competitors guide](http://usfpgsc.github.io/files/Competitors_Guide.pdf)
+
+
+
+## Registration Process & Information
+
+- Applicants submit the following via an online registration portal/form at least two weeks prior to the competition.
+  - Name.
+  - Year in program.
+  - A single static PowerPoint slide.
+  - Short summary of presentation (< 100 words).
+  - Major area of research.
+  - Affiliated research lab/principal investigator (major advisor).
+- Applicants receive notification of acceptance one week after registration deadline.
+- Applicant presentation order is randomly drawn/assigned.
+
+
+Please find further information in the [flyer](http://usfpgsc.github.io/files/3MT_Flyer.pdf) and [competitors guide](http://usfpgsc.github.io/files/Competitors_Guide.pdf)
+
+For more information concerning the competition, please contact: 
+
+- **Temitope Adeoye**, _Vice President, Academics_, PGSC. Email: tadeoye{at}usf{dot}edu. 
+- **Gina Pantano**, _Vice President, Socials_, PGSC. Email: gmpantano{at}usf{dot}edu.
+
