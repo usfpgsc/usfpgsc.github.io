@@ -4,84 +4,111 @@ excerpt: ""
 collection: portfolio
 ---
 
-Even the world’s best public speakers prepare before important presentations. To assist you with your preparations, please find a few suggestions below that will help you in writing your presentation, creating your slide and practising your presentation.
+Even the world’s best public speakers prepare before important presentations. To assist you with your preparations, please find a few suggestions [here]() that will help you in writing your presentation, creating your slide and practising your presentation.
 
 # 3MT Competition
 
-We are very excited to announce the inaugural **Three Minute Thesis (3MT™) competition** in the Department of Physics. The 3MT™ competition is a research communication competition developed by The [University of Queensland, Australia](https://threeminutethesis.uq.edu.au/). The exercise develops academic, presentation, and research communication skills and supports the development of students' capacities to effectively explain their research in language appropriate to an intelligent but non-specialist audience. 
+Let’s get you started! You’re ready to do all the heavy lifting. We’re happy to simply lend a hand. We realize that there’s a lot going through your mind right now. 
 
-In this competition, graduate students will have **three minutes** to present a compelling oration on their dissertation/current research topic and its significance. 3MT™ is not an exercise in trivializing or ‘dumbing-down’ research but forces students to consolidate their ideas and crystalize their research discoveries. 
+Where to start? How to plan? 
 
-
-## Why participate? 
-
-
-- **Skills development for research students**
-  - Participating in 3MT develops academic, presentation and research communication skills, while developing research candidates’ ability to effectively explain their research in language appropriate to a non-specialized audience.
-
-- **Building intra-departmental research culture**
-  - 3MT provides a valuable opportunity for graduate students to come together in person, get to know one another, and talk about their research. It also provides a supportive environment and presentation skills training.
-
-- **Building external relations for the department/program**
-  - 3MT winners may go on to represent the department at university, state, national, and international 3MT competitions which provides an excellent networking and professional development opportunity. Previous 3MT finalists at USF have benefited from invitations to a variety of other networking events following their participation in the competition
-
-- **Preparation for Graduate Research Day event hosted by the PGSC in the fall**
-  - The 3MT competition is a practice event for students to get used to speaking in front of large audiences and a judge panel about their research in preparation for the Gradute Research Day event hosted by PGSC and the physics department in the fall.
-
-- **It looks good on your Resume/CV 😊**.
+Here are just a few things to help you out. 
 
 
-## Competition Elgibility
+## Drafting your presentation 
 
-Currently enrolled graduate students (masters or PhD track) in the Applied Physics program at the University of South Florida will be eligible to participate in the 3MT™. 
-
-
-## Applications 
-
-Applications for the 3MT™ competition can be submitted [here](insert link).
-
-- **Registration Opens**: Wednesday, June 15th, 2022.
-- **Registration Closes**: Wednesday, July 10th, 2022.
+- Write for your audience
+- Avoid jargon and academic language.
+- Explain concepts and people important to your research – you may know all about Professor Smith’s theories, but your audience may not.
+- Highlight the outcomes of your research, and the desired outcome.
+- Imagine that you are explaining your research to a close friend or fellow student from another field.
+- Convey your excitement and enthusiasm for your subject.
 
 
-## Prizes 
+## Tell a story
+
+- You may like to present your 3MT as a narrative, with a beginning, middle and end.
+- It’s not easy to condense your research into three minutes, so you may find it easier to break your presentation down into smaller sections.
+- Try writing an opener to catch the attention of the audience, then highlight your different points, 
+and finally have a summary to restate the importance of your work
 
 
-3MT™ Finalists are eligible for one of the three awards: 
-- **Winner** —— $250.
-- **Runner-up** —— $150.
-- **People’s Choice** (selected by the audience) —— ($100). 
+## Have a clear outcome in mind
+
+- Know what you want your audience to take away from your presentation.
+- Try to leave the audience with an understanding of what you’re doing, why it is important, and what you hope to achieve.
 
 
-## Competition Rules
+## What not to do
 
-- A single static PowerPoint slide is permitted (no slide transitions, animations, or 'movement' of any description).
+- Do not write your presentation like an academic paper.
+- Try to use shorter words, shorter sentences, and shorter paragraphs.
+- You can use humor, however, be careful not to devalue your presentation.
+
+
+## Revise 
+
+- Proof your 3MT presentation by reading it aloud, to yourself and to an audience of friends and family.
+- Ask for feedback.
+- Ask your audience if your presentation clearly highlights what your research is about and why it is important.
+
+
+Your 3MT slide
+================
+
+## Rules
+
+Before you start work on your slide, you should take the following rules into account:
+
+- One single static PowerPoint slide is permitted.
+- No slide transitions, animations or ‘movement’ of any description are permitted.
+- Your slide is to be presented from the beginning of your oration; and
 - No additional electronic media (e.g., sound and video files) are permitted.
-- No additional props (e.g., costumes, musical instruments, laboratory equipment) are permitted.
-- Presentations are limited to 3 minutes maximum, and competitors exceeding 3 minutes are disqualified.
-- Presentations are to be spoken word (e.g., no poems, raps, or songs).
-- The decision of the adjudicating panel is final.
-- Please see more in the [competitors guide](http://usfpgsc.github.io/files/Competitors_Guide.pdf)
+- If you need to reference a picture, image, or any kind of content in your slide, you can do it on the title page or at the bottom of the slide in a small box.
 
+## Suggestions
 
+You may like to consider some of the following suggestions.
 
-## Registration Process & Information
+- Less is more: text and complicated graphics can distract your audience – you don’t want them to read your slide instead of listening to your 3MT.
+- Personal touches: personal touches can allow your audience to understand the impact of your research.
+- Creativity drives interest: do not rely on your slide to convey your message – it should simply complement your oration.
+- Work your message: think about how your slide might be able to assist with the format and delivery of your presentation – is there a metaphor that helps explain your research?
+- An engaging visual presentation can make or break any oration, so make sure your slide is legible, clear, and concise. 
 
-- Applicants submit the following via an online registration portal/form at least two weeks prior to the competition.
-  - Name.
-  - Year in program.
-  - A single static PowerPoint slide.
-  - Short summary of presentation (< 100 words).
-  - Major area of research.
-  - Affiliated research lab/principal investigator (major advisor).
-- Applicants receive notification of acceptance one week after registration deadline.
-- Applicant presentation order is randomly drawn/assigned.
+# Your 3MT presentation
 
+## Practice, practice, practice
 
-Please find further information in the [flyer](http://usfpgsc.github.io/files/3MT_Flyer.pdf) and [competitors guide](http://usfpgsc.github.io/files/Competitors_Guide.pdf)
+- Feeling nervous before you present is natural, and a little nervousness can even be beneficial to your overall speech. Nonetheless, it is important to practice so you can present with confidence and clarity. Practicing will also help you gauge the timing of your 3MT so that you keep within the time limit.
 
-For more information concerning the competition, please contact: 
+## Vocal range
 
-- **Temitope Adeoye**, _Vice President, Academics_, PGSC. Email: tadeoye{at}usf{dot}edu. 
-- **Gina Pantano**, _Vice President, Socials_, PGSC. Email: gmpantano{at}usf{dot}edu.
+- Speak clearly and use variety in your voice (fast/slow, loud/ soft).
+- Do not rush – find your rhythm.
+- Remember to pause at key points as it gives the audience time to think about what you are saying.
 
+## Body language
+
+- Stand straight and confidently.
+- Hold your head up and make eye contact.
+- Never turn your back to the audience.
+- Practise how you will use your hands and move around the stage. It is okay to move around energetically if that is your personality, however it is also appropriate for a 3MT presentation to be delivered from a single spot on stage.
+- Do not make the common mistakes of rolling back and forth on your heels, pacing for no reason or playing with your hair as these habits are distracting for the audience.
+
+## Record yourself
+
+- Record and listen to your presentation to hear where you pause, speak too quickly, or get it just right.
+- Then work on your weaknesses and exploit your strengths.
+
+## Look to the stars!
+
+- Watch your role models such as academics, politicians, and journalists, and break down their strengths and weaknesses.
+- Analyze how they engage with their audience.
+- View presentations by previous 3MT finalists.
+
+## Dress 
+
+- There is no dress code, if you are unsure of how to dress you may like to dress for a job interview or an important meeting. It is important that you feel comfortable so you can focus on your presentation.
+- If you are presenting on a stage that has a wooden floor, be aware of the noise your footwear might make.
+- Do not wear a costume of any kind as this is against the rules (as is the use of props).
