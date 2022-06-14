@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ph.Demetri"
+title                    : "USF / Physics Graduate Student Committee"
 title_separator          : "-"
-name                     : &name "Demetri Pananos"
-description              : &description "Applied Mathematician.  Statistician.  Data Scientist."
-url                      : https://dpananos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "USF PGSC"
+description              : &description "Physics Graduate Student Committee @ USF."
+url                      : https://usfpgsc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dpananos.github.io"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Demetri Pananos"
-  avatar           : "profile.png"
-  bio              : "Senior Data Scientist at Zapier.  Part time PhD Candidate in Biostatsitics."
-  location         : "London, Ontario"
+  name             : "USF PGSC"
+  avatar           : ""
+  bio              : "Physics Graduate Student Committee @ USF
+  location         : "University of South Florida, Tampa FL. "
   employer         :
-  googlescholar    : "https://scholar.google.ca/citations?user=LN16PpgAAAAJ&hl=en"
-  email            : "dpananos@gmail.com"
+  googlescholar    : ""
+  email            : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dpananos"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "demetripananos"
+  linkedin         : "usfpgsc"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "PhDemetri"
+  twitter          : "usfpgsc"
   vine             :
   weibo            :
   xing             :
