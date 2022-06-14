@@ -6,17 +6,17 @@ main:
   - title: "Talks & Presentations"
     url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "News"
     url: /portfolio/
 
   - title: "Events"
     url: /year-archive/
-
+    
   - title: "Guides"
-    url: /guides/
+    url: /teaching/
+
+#   - title: "Guides"
+#     url: /guides/
 
 #   - title: "Consulting"
 #     url: /consulting/
