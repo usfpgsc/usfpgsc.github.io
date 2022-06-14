@@ -1,13 +1,52 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "All About PGSC"
+excerpt: "About PGSC"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a Senior Data Scientist at Zapier. I am also a part time Ph.D candidate in Biostatistics at Western University.  My research interests surround machine learning and Bayesian statistics for personalized medicine.  In 2019, I contributed differential equation functionality to PyMC3, a python library for doing Bayesian inference.  For my contribution, I was awarded [NUMFOCUS' New Contributor Award](https://numfocus.org/blog/2019-numfocus-awards).
+**Our purpose is to aid in the success of every physics graduate student at USF To do this**; 
 
-I earned my Masters of Mathematics in Applied Mathematics from The University of Waterloo. My thesis concerned vaccine hesitancy and early warning signals of impending outbreaks of measles, using the 2014 Disneyland measles outbreak as a case study.  I published my findings in the [Proceedings of the National Academy of Sciences](https://www.pnas.org/content/114/52/13762).
+- We will foster an environment of research excellence, professional development, and social engagement along with academic achievement.
+- We will maintain an active student community that is welcoming to all and celebrates students accomplishments.
+- We will also form a coherent voice for the physics graduate students at USF to serve as a conduit for communication between students and the Physics department.
+
+
+Meet the team.
+==============
+
+- **President** -- _Yen Pham_; yenpham1{at}usf{dot}edu.
+- **Vice President (Socials)** -- _Gina Pantano_; gmpantano{at}usf{dot}edu.
+- **Vice President (Academics)** -- _Temitope Adeoye_; tadeoye{at}usf{dot}edu.
+- **Secretary** -- _Joseph Fox D. Dietz_; josephfox{at}usf{dot}edu.
+- **Treasurer** -- _Kevin Interiano_; kinteriano{at}usf{dot}edu.
+
+
+
+Activities.
+==============
+
+- **Grad School guideline**
+  - _Workshop_: Road map to Ph.D. (05/2022)
+  - _Guidebook_: Graduate Program in Applied Physics _(Summer 2022)_.
+- **Professional Skills Workshops**
+  - Monthly workshops on writing resume/ CV, personal statement, preparing for interviews _(Fall 2022)_.
+- **Academic Skills Workshops**
+  - Three Minute Thesis Competition _(Summer 2022)_.
+  - USF Physics Research Day _(Fall 2022)_.
+  - _How to_;
+    - Improve your publication quality.
+    - Prepare conference poster/talk.
+- **Scholarships & Fellowships**
+  - Workshops cholarship/fellowship applications with tips from successful recipients _(Fall 2022)_.
+- **Networking Events**
+  - Connect with alumni at National Labs, companies, research institutes and other universities _(Fall 2022)_.
+
+
+For more info
+-------------
+For more info please ......
+
