@@ -1,7 +1,7 @@
 ---
 title: "3MT Competitors Guide"
-excerpt: ""
-collection: portfolio
+excerpt:
+collection: teaching
 ---
 
 Even the world’s best public speakers prepare before important presentations. To assist you with your preparations, please find a few suggestions [here]() that will help you in writing your presentation, creating your slide and practising your presentation.
