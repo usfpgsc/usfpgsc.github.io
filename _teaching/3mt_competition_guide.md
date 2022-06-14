@@ -7,7 +7,7 @@ venue: "ISA 2302 (Physics Colloquim), University of South Florida, Tampa, FL."
 ---
 
 
-Even the world’s best public speakers prepare before important presentations. To assist you with your preparations, please find a few [suggestions](https://usfpgsc.github.io/teaching/3mt_competition_guide/) that will help you in writing your presentation, creating your slide and practising your presentation.
+Even the world’s best public speakers prepare before important presentations. To assist you with your preparations, please find a few [suggestions] (https://usfpgsc.github.io/teaching/3mt_competition_guide/) that will help you in writing your presentation, creating your slide and practising your presentation.
 
 # 3MT Competition
 
