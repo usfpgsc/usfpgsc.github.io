@@ -1,6 +1,6 @@
 ---
 title: "3MT Judging Criteria"
-permalink: /teaching/3mt_competition_guide: 
+permalink: /teaching/3mt_competition_guide
 collection: teaching
 venue: "ISA 2302 (Physics Colloquim), University of South Florida, Tampa, FL."
 date: 2022-06-14
