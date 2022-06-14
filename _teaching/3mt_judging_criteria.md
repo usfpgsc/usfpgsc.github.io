@@ -1,9 +1,9 @@
 ---
 title: "3MT Judging Criteria"
-excerpt: 
+permalink: /teaching/3mt_competition_guide: 
 collection: teaching
 date: 2022-06-14
-venue: 'ISA 2302 (Physics Colloquim), University of South Florida, Tampa, FL.'
+venue: "ISA 2302 (Physics Colloquim), University of South Florida, Tampa, FL."
 ------
 
 At every level of the competition each competitor will be assessed on the judging criteria listed [here](https://usfpgsc.github.io/teaching/3mt_judging_criteria/). Each criterion is equally weighted and has an emphasis on audience.
