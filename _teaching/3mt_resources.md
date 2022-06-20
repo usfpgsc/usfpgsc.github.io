@@ -5,39 +5,25 @@ collection: teaching
 date: 2022-06-20
 ---
 
-To assist you with your preparations, please find a few [resources](https://usfpgsc.github.io/teaching/3mt_competition_guide/) that will help you in writing your presentation, creating your slide and practising your presentation.
+To assist you with your preparations, please find a few [resources](https://usfpgsc.github.io/teaching/3mt_resources) that will help you in writing your presentation, creating your slide and practising your presentation.
 
 
-## Drafting your presentation 
+## 2020 Finalist Video Presentation 
 
-- Write for your audience
-- Avoid jargon and academic language.
-- Explain concepts and people important to your research – you may know all about Professor Smith’s theories, but your audience may not.
-- Highlight the outcomes of your research, and the desired outcome.
-- Imagine that you are explaining your research to a close friend or fellow student from another field.
-- Convey your excitement and enthusiasm for your subject.
+- Click [here](https://vimeo.com/showcase/7789668) to view the FSU 2020 Finalist Video Presentations
 
 
-## Tell a story
+## Videos of Past 3MT™ Finalists
 
-- You may like to present your 3MT as a narrative, with a beginning, middle and end.
-- It’s not easy to condense your research into three minutes, so you may find it easier to break your presentation down into smaller sections.
-- Try writing an opener to catch the attention of the audience, then highlight your different points, 
-and finally have a summary to restate the importance of your work
-
-
-
-
-Your 3MT slide
-================
-
-## Rules
-
-Before you start work on your slide, you should take the following rules into account:
-
-- One single static PowerPoint slide is permitted.
-- No slide transitions, animations or ‘movement’ of any description are permitted.
-- Your slide is to be presented from the beginning of your oration; and
-- No additional electronic media (e.g., sound and video files) are permitted.
-- If you need to reference a picture, image, or any kind of content in your slide, you can do it on the title page or at the bottom of the slide in a small box.
-
+- [3MT™ Finals 2015- Overview Video](https://mediasite.capd.fsu.edu/Mediasite/Play/cc9e592ca74b45a8a6d20a1cca0d6d591d)
+- [3MT™ Finals 2015- Aniket Ingrole (First Place)](https://mediasite.capd.fsu.edu/Mediasite/Play/a750dea05b2f48b08c180c1ccddc5ed21d)
+- [3MT™ Finals 2015- Frank Annie (Second Place)](https://mediasite.capd.fsu.edu/Mediasite/Play/65609a09131e48ffa41d0e87eee5591e1d)
+- [3MT™ Finals 2015- Austin Schwartz (People's Choice Award)](http://mediasite.capd.fsu.edu/Mediasite/Play/30f5407adeaf4145a3a9eda6a5c4c7211d)
+- [3MT™ Finals 2017- FSU News Finalist Overview Video](https://www.youtube.com/watch?time_continue=10&v=t7a4Ab-88Ss)
+- [3MT™ Finals 2018- All Finalist Videos](https://www.youtube.com/playlist?list=PLWaIzHF79O3lU-ux3hiwd3SuRwBjtImDn)
+- [3MT™ Finals 2018- FSU News Finalist Overview Video](https://www.youtube.com/watch?time_continue=2&v=K4j8IfTn4fs)
+- [3MT™ Preliminary Rounds for 2019 Contestants](https://www.youtube.com/playlist?list=PLWaIzHF79O3nC28WQDDqeJ_IcozC7MHP1)
+- [3MT™ Finals 2019- Radio Story]()
+- [3MT™ Finals 2019- News Article and Video](https://news.fsu.edu/news/university-news/2019/11/20/physics-student-and-biomedical-sciences-student-share-top-honors-at-fsus-three-minute-thesis-competition/)
+- [3MT™ Finals 2020- All Finalist Videos](https://vimeo.com/showcase/7789668)
+- [2021 USF 3MT® Winners](https://www.usf.edu/graduate-studies/research/three-minute-thesis.aspx#:~:text=The%203MT%C2%AE%20is%20a,presentation%2C%20and%20research%20communication%20skills.)
