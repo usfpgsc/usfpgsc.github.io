@@ -5,8 +5,25 @@ collection: teaching
 date: 2022-06-20
 ---
 
-To assist you with your preparations, please find a few [resources](https://usfpgsc.github.io/teaching/3mt_resources) that will help you in writing your presentation, creating your slide and practising your presentation.
+To assist you with your preparations, please find a few resources below that will help you in writing your presentation, creating your slide and practising your presentation.
 
+
+## Resources for Participants
+
+- Simon Clews (University of Melbourne) has prepared a helpful guide on [preparing for the Three Minute Thesis Competition](http://simonclews.com/wp-content/uploads/2018/06/YTSN.pdf)
+- Jackie Amsden (Simon Fraser University) discusses how narrative frameworks can help grad students [effectively tell their research story](http://www.universityaffairs.ca/career-advice/career-advice-article/how-grad-students-can-effectively-tell-their-research-story/)
+- Matt Abrahams (Stanford University) provides [Tips and Techniques for More Confident and Compelling Presentations](http://www.gsb.stanford.edu/insights/matt-abrahams-tips-techniques-more-confident-compelling-presentations)
+- Matt Abrahams (Stanford University) podcast [Think Fast, Talk Smart](https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast): advice for impromptu speaking
+- Anett Grant (Executive Speaking) addresses [Six Pieces of Bad Speaking Advice That Just Won’t Die](http://www.fastcompany.com/3061395/how-to-be-a-success-at-everything/six-common-pieces-of-terrible-speaking-advice-that-just-wo)
+- Inger Mewburn (RMIT University) developed [How to Talk About Your Thesis in 3 Minutes](http://prezi.com/jwhwyydfzqxo/how-to-talk-about-your-thesis-in-3-minutes/)
+- Ontario Consortium for Graduate Professional Skills posted [6 Components of Successful 3MT Speeches](https://www.youtube.com/watch?v=r9Ix19UmCFI) (video)
+- Henry Miller (UT Health San Antonio) shares [11 Tips For The 3 Minute Thesis Competition](https://pipettegazette.uthscsa.edu/2020/08/21/10-tips-for-3-minute-thesis-competition/)
+
+## 3MT Presentations from Physics Gradaute Students
+
+- [2019 3MT Finals at Georgia Tech](https://www.youtube.com/watch?v=546YhA9S_nQ)
+- [2018 3MT Finals at Georgia Tech](https://www.youtube.com/watch?v=Tq-IAR81dbw)
+- [2018 3MT Finals at UMD](https://www.youtube.com/watch?v=S2bVzz-SNoc)
 
 ## 2020 Finalist Video Presentation 
 
