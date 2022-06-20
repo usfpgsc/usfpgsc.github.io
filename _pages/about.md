@@ -46,7 +46,3 @@ Activities.
   - Connect with alumni at National Labs, companies, research institutes and other universities _(Fall 2022)_.
 
 
-For more info
--------------
-For more info please ......
-
