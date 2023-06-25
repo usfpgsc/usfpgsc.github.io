@@ -2,7 +2,7 @@
 title: "3MT Resources"
 permalink: /teaching/3mt_resources
 collection: teaching
-date: 2022-06-20
+date: 2023-06-20
 ---
 
 To assist you with your preparations, please find a few resources below that will help you in writing your presentation, creating your slide and practising your presentation.
