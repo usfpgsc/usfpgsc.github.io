@@ -1,6 +1,6 @@
 ---
 title: "3MT Competitors Guide"
-permalink: /guides/3mt_competition_guide
+permalink: /teaching/3mt_competition_guide
 collection: teaching
 date: 2023-06-14
 venue: "ISA 2302 (Physics Colloquim), University of South Florida, Tampa, FL."
