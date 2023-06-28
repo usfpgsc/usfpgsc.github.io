@@ -1,0 +1,91 @@
+---
+title: "Three Minutes Thesis (3MT) Competition"
+permalink: /events/3mt_competition/
+date: 2023-06-28
+venue: 'ISA 2302 (Physics Colloquim), University of South Florida, Tampa, FL.'
+---
+
+**Attention Graduate Students**: You are invited to present your research at the upcoming USF department-level 3MT competition tentatively on Friday, August 18th. Gain experience in public speaking, share your original research, and compete
+for cash prizes! Presentations are encouraged, though not required to attend the symposium. Registration is free. Please click [here](https://usfpgsc.github.io/events/3mt_competition/) to found out more.
+
+# 3MT Competition
+
+We are thrilled to announce the upcoming Three Minute Thesis (3MT) competition in the Department of Physics. Following a successful run last year, we are excited to continue this tradition and hold the competition once again this year. The 3MT competition is a research communication competition that was initially developed by The [University of Queensland, Australia](https://threeminutethesis.uq.edu.au/). This exercise aims to enhance academic, presentation, and research communication skills while assisting students in effectively explaining their research using language that is suitable for an intelligent but non-specialized audience. Join us for another inspiring showcase of student research and communication excellence!
+
+In this competition, graduate students will have **three minutes** to present a compelling oration on their dissertation/current research topic and its significance. 3MT™ is not an exercise in trivializing or ‘dumbing-down’ research but forces students to consolidate their ideas and crystalize their research discoveries. 
+
+
+## Why participate? 
+
+
+- **Skills development for research students**
+  - Participating in 3MT develops academic, presentation and research communication skills, while developing research candidates’ ability to effectively explain their research in language appropriate to a non-specialized audience.
+
+- **Building intra-departmental research culture**
+  - 3MT provides a valuable opportunity for graduate students to come together in person, get to know one another, and talk about their research. It also provides a supportive environment and presentation skills training.
+
+- **Building external relations for the department/program**
+  - 3MT winners may go on to represent the department at university, state, national, and international 3MT competitions which provides an excellent networking and professional development opportunity. Previous 3MT finalists at USF have benefited from invitations to a variety of other networking events following their participation in the competition
+
+- **Preparation for Graduate Research Day event hosted by the PGSC in the fall**
+  - The 3MT competition is a practice event for students to get used to speaking in front of large audiences and a judge panel about their research in preparation for the Gradute Research Day event hosted by PGSC and the physics department in the fall.
+
+- **It looks good on your Resume/CV 😊**.
+
+
+## Competition Elgibility
+
+Currently enrolled graduate students (masters or PhD track) in the Applied Physics program at the University of South Florida will be eligible to participate in the 3MT™. 
+
+
+## Applications 
+
+Applications for the 3MT™ competition can be submitted [here](https://forms.office.com/Pages/ResponsePage.aspx?id=3vcbdOXi30aNZ4JgffneqoSQhxAyAA9HtJvdsgV8mXJURTcwRVRSWUExWUo3TUJMS0FENFNKVjgxWi4u).
+
+- **Registration Opens**: Wednesday, June 26th, 2023.
+- **Registration Closes**: Wednesday, July 31st, 2023.
+
+
+## Prizes 
+
+3MT™ Finalists are eligible for one of the three awards: 
+- **Winner** —— $250.
+- **Runner-up** —— $150.
+- **People’s Choice** (selected by the audience) —— ($100). 
+
+
+## Competition Rules
+
+- A single static PowerPoint slide is permitted (no slide transitions, animations, or 'movement' of any description).
+- No additional electronic media (e.g., sound and video files) are permitted.
+- No additional props (e.g., costumes, musical instruments, laboratory equipment) are permitted.
+- Presentations are limited to 3 minutes maximum, and competitors exceeding 3 minutes are disqualified.
+- Presentations are to be spoken word (e.g., no poems, raps, or songs).
+- The decision of the adjudicating panel is final.
+- Please see more in the [competitors guide](https://usfpgsc.github.io/guides/3mt_competition_guide)
+
+
+## Resources 
+
+- Please click [here]() to view presentations from past 3MT finalists at USF and FSU.
+
+## Registration Process & Information
+
+- Applicants submit the following via an online registration portal/form at least two weeks prior to the competition.
+  - Name.
+  - Year in program.
+  - A single static PowerPoint slide.
+  - Short summary of presentation (< 100 words).
+  - Major area of research.
+  - Affiliated research lab/principal investigator (major advisor).
+- Applicants receive notification of acceptance one week after registration deadline.
+- Applicant presentation order is randomly drawn/assigned.
+
+
+Please find further information in the [flyer](http://usfpgsc.github.io/files/3MT_Flyer_2023.pdf) and [competitors guide](http://usfpgsc.github.io/files/Competitors_Guide.pdf)
+
+For more information concerning the competition, please contact: 
+
+- **Temitope Adeoye**, President, PGSC. Email: tadeoye{at}usf{dot}edu. 
+- **Charlie Ogg**, Vice President, Academics, PGSC. Email: cogg{at}usf{dot}edu.
+
