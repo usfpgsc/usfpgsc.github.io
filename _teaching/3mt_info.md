@@ -40,7 +40,7 @@ Currently enrolled graduate students (masters or PhD track) in the Applied Physi
 
 ## Applications 
 
-Applications for the 3MT™ competition can be submitted [here](https://forms.office.com/Pages/ResponsePage.aspx?id=3vcbdOXi30aNZ4JgffneqoSQhxAyAA9HtJvdsgV8mXJURTcwRVRSWUExWUo3TUJMS0FENFNKVjgxWi4u).
+Applications for the 3MT™ competition can be submitted [here](https://forms.office.com/Pages/ResponsePage.aspx?id=3vcbdOXi30aNZ4JgffneqoSQhxAyAA9HtJvdsgV8mXJUNFRQM1NaVEwyT1dTME83VFQ5T0VFWDhSSS4u).
 
 - **Registration Opens**: Wednesday, June 26th, 2023.
 - **Registration Closes**: Wednesday, July 31st, 2023.
@@ -67,7 +67,7 @@ Applications for the 3MT™ competition can be submitted [here](https://forms.of
 
 ## Resources 
 
-- Please click [here]() to view presentations from past 3MT finalists at USF and FSU.
+- Please click [here](https://usfpgsc.github.io/guides/3mt_resources) to view presentations from past 3MT finalists at USF and FSU.
 
 ## Registration Process & Information
 
