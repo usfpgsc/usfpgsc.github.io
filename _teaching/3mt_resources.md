@@ -1,6 +1,6 @@
 ---
 title: "3MT Resources"
-permalink: /teaching/3mt_resources
+permalink: /guides/3mt_resources
 collection: teaching
 date: 2023-06-20
 ---
