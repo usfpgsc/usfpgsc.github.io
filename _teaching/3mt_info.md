@@ -82,7 +82,7 @@ Applications for the 3MT™ competition can be submitted [here](https://forms.of
 - Applicant presentation order is randomly drawn/assigned.
 
 
-Please find further information in the [flyer](http://usfpgsc.github.io/files/3MT_Flyer_2023.pdf) and [competitors guide](http://usfpgsc.github.io/files/Competitors_Guide.pdf)
+Please find further information in the [flyer](http://usfpgsc.github.io/files/3MT_Flyer_2023.pdf) and [competitors guide](http://usfpgsc.github.io/files/Competitors_Guide_2023.pdf)
 
 For more information concerning the competition, please contact: 
 
