@@ -8,7 +8,7 @@ date: 2023-06-14
 ---
 
 
-Each competitor will be assessed on the judging criteria listed [here](https://usfpgsc.github.io/teaching/3mt_judging_criteria). Each criterion is equally weighted and has an emphasis on audience.
+Each competitor will be assessed on the judging criteria listed [here](https://usfpgsc.github.io/guides/3mt_judging_criteria). Each criterion is equally weighted and has an emphasis on audience.
 
 
 ## Judging Criteria
